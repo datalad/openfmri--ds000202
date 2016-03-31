@@ -7,4 +7,8 @@
  - Updated RepetitionTime parameter in .json files
    after clarification from submitter
 
+1.0.2 2015-01-27
+
+ - Fixed missing ',' in dataset_description.json file.
+
 
